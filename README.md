@@ -1,2 +1,2 @@
-Welco,e guys..
-Here is my college coding examples in C, HTML
+Hello guys,
+This is my college coding practice and examples in C, HTML languages.
